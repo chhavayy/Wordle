@@ -1,3 +1,12 @@
+#HOW TO OPEN
+download the folder
+open it in vscode
+press CTRL + J
+terminal will open up
+then type "npm i"
+then type "npm start"
+program will start to run
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
