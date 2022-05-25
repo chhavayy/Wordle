@@ -1,14 +1,14 @@
 # HOW TO OPEN:
 
-download the folder
-open it in vscode
-press CTRL + J
-terminal will open up
-then type "npm i"
-then type "npm start"
-program will start to run'
+1. download the folder
+2. open it in vscode
+3. press CTRL + J
+4. terminal will open up
+5. then type "npm i"
+6. then type "npm start"
+7. program will start to run'
 
-# direct working link via vercel
+# Direct working link of this project via vercel
 
 https://wordle-liart.vercel.app/
 
