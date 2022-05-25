@@ -1,11 +1,16 @@
-#HOW TO OPEN
+# HOW TO OPEN:
+
 download the folder
 open it in vscode
 press CTRL + J
 terminal will open up
 then type "npm i"
 then type "npm start"
-program will start to run
+program will start to run'
+
+# direct working link via vercel
+
+https://wordle-liart.vercel.app/
 
 # Getting Started with Create React App
 
